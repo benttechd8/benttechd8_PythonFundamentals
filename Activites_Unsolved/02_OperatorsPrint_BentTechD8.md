@@ -6,13 +6,13 @@
  
 Arithmetic | Operators| Example  |
 | -------- |:-----------:|  -----------| 
-| Addition | | + | | 2 + 2 |
-| Subtraction | | - | | 8 - 4 |
-| Multiplication | | \* | | 4 \* 4|
-| Divison | | / | | 12 / 3 |
-| Modulus | | % | | 13 % 3 |
-| Exponentiation | |\*\* | | 2\*\*4| 
-| Floor | | // | | 13 // 3|
+| Addition  | + |  2 + 2 |
+| Subtraction  | - |  8 - 4 |
+| Multiplication  | \* |  4 \* 4|
+| Divison  | / | 12 / 3 |
+| Modulus | % | 13 % 3 |
+| Exponentiation  |\*\* |  2\*\*4| 
+| Floor  | // |  13 // 3|
 
 
  ## More on print
