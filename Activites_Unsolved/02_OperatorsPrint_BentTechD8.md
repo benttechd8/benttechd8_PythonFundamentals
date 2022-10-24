@@ -4,8 +4,8 @@
 
 ## Operators
  
-| Arithmetic | | Operators || Example|
-| ----------- | ----------- |
+Arithmetic | Operators| Example  |
+| -------- |:-----------:|  -----------| 
 | Addition | | + | | 2 + 2 |
 | Subtraction | | - | | 8 - 4 |
 | Multiplication | | \* | | 4 \* 4|
