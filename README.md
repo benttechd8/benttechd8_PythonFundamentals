@@ -1,4 +1,4 @@
-# Welcome to BentTechD8 Python Fundamentals Support Repository!
+# Welcome to BentTechD8 Python Fundamentals Repository!
 ## --I will be updating this as often as I can.....pinkie swear--
 
 **YOUTUBE site**: ["BentTechD8"](https://www.youtube.com/channel/UCLIHhPG_EizZ-de5BgIAVig).
